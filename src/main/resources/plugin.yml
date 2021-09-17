@@ -1,0 +1,5 @@
+name: Sell
+main: me.phuongaz.sell.Loader
+version: 1.0
+api: ["1.0.0"]
+author: phuongaz
